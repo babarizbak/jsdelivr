@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "jquery-dropdown",
+  "repo": "claviska/jquery-dropdown",
+  "files": {
+    "include": ["jquery.dropdown.js", "jquery.dropdown.min.js", "jquery.dropdown.css", "jquery.dropdown.min.js"]
+  }
+}
